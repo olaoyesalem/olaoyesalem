@@ -1,5 +1,5 @@
 
-# THE DECENTRALIZED ENTITY
+# THE DECENTRALIZED ENTITY.
 ##### . 👋 Hi, I'm Olaoye Salem.
 ##### . 🌱 I’m currently into block chain, with the use of Metamask, Web3, and solidity
 ##### . 📫 I'm currently working on react as a side Booster
