@@ -33,10 +33,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoyesalem&langs_count=5&theme=tokyonight)]()
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olaoyesalem&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="400" style="vertical-align:top; margin:40px">
-
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
