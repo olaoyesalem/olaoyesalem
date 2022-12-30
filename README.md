@@ -1,3 +1,13 @@
+
+# THE DECENTRALIZED ENTITY
+##### . 👋 Hi, I'm Olaoye Salem.
+##### . 🌱 I’m currently into block chain, with the use of Metamask, Web3, and solidity
+##### . 📫 I'm currently working on react as a side Booster
+##### . 🌱 Ask me anything about smart contracts, ethereum.
+##### . 💞️ I’m looking to collaborate on any project using blockchain, react.
+##### . 👀 Lover of Open Source contribution
+##### . 📫 How to reach me olaoyesalemgreat@gmail.com
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -14,37 +24,39 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=olaoyesalem&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=olaoyesalem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=olaoyesalem&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olaoyesalem&theme=dark)](https://git.io/streak-stats)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoyesalem&langs_count=5&theme=tokyonight)]()
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olaooyesalem&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olaoyesalem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title=" Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_eth.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png" title="Metamask" alt="Metamask " width="40" height="40"/>&nbsp;
+  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg"  title="hardhat" alt="hardhat" width="70" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olaoyesalem&theme=tokyonight&hide_border=true&border_radius=6.2&fire=DD2727)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=olaoyesalem&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **olaoyesalem/olaoyesalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
