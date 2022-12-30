@@ -28,8 +28,8 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olaoyesalem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![olaoyesalem's github stats](https://github-readme-stats.vercel.app/api?username=olaoyesalem&theme=dark)](https://github.com/olaoyesalem/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olaoyesalem&theme=dark)](https://git.io/streak-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=olaoyesalem&theme=dark)](https://github.com/olaoyesalem/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=olaoyesalem&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoyesalem&langs_count=5&theme=tokyonight)]()
 
