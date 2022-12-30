@@ -1,13 +1,3 @@
-
-# THE DECENTRALIZED ENTITY.
-##### . 👋 Hi, I'm Olaoye Salem.
-##### . 🌱 I’m currently into block chain, with the use of Metamask, Web3, and solidity
-##### . 📫 I'm currently working on react as a side Booster
-##### . 🌱 Ask me anything about smart contracts, ethereum.
-##### . 💞️ I’m looking to collaborate on any project using blockchain, react.
-##### . 👀 Lover of Open Source contribution
-##### . 📫 How to reach me olaoyesalemgreat@gmail.com
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -21,9 +11,20 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=olaoyesalem&style=flat-square&color=blue" alt=""/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=olaoyesalem&style=flat-square&color=blue" alt=""/>
+
+# THE DECENTRALIZED ENTITY.
+##### . 👋 Hi, I'm Olaoye Salem.
+##### . 🌱 I’m currently into block chain, with the use of Metamask, Web3, and solidity
+##### . 📫 I'm currently working on react as a side Booster
+##### . 🌱 Ask me anything about smart contracts, ethereum.
+##### . 💞️ I’m looking to collaborate on any project using blockchain, react.
+##### . 👀 Lover of Open Source contribution
+##### . 📫 How to reach me olaoyesalemgreat@gmail.com
+
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olaoyesalem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -35,9 +36,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoyesalem&langs_count=5&theme=tokyonight)]()
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olaooyesalem&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="40" style="vertical-align:top; margin:4px">
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=olaoyesalem&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=olaoyesalem&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" alt="Codersrank" height="400" style="vertical-align:top; margin:40px">
 
 
 
@@ -52,7 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </div>
 
 
