@@ -17,11 +17,10 @@
 
 # THE DECENTRALIZED ENTITY.
 ##### . 👋 Hi, I'm Olaoye Salem.
-##### . 🌱 I’m currently into block chain, with the use of Metamask, Web3, and solidity
-##### . 📫 I'm currently working on react as a side Booster
+##### . 🌱 I’m currently into blockchain, with the use of Metamask, Web3, and solidity
 ##### . 🌱 Ask me anything about smart contracts, ethereum.
-##### . 💞️ I’m looking to collaborate on any project using blockchain, react.
-##### . 👀 Lover of Open Source contribution
+##### . 💞️ I’m looking to collaborate on any project using blockchain, react,solidity.
+##### . 💖 Lover of Open Source contribution to smartcontracts and blockchain projects.
 ##### . 📫 How to reach me olaoyesalemgreat@gmail.com
 
 
