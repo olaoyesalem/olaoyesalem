@@ -11,11 +11,16 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=olaoyesalem&style=flat-square&color=blue" alt=""/>
+
+   <p align="center"> 
+  Profile Views<br>
+  <img src="https://profile-counter.glitch.me/olaoyesalem/count.svg" />
+</p>
 </div>
 
 
 Hello World,🌏,I'm Salem, The Decentralized Entity .
+---
 
 <!-- Typing SVG -->
 <p align="center">
