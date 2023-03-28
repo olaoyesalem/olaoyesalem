@@ -15,13 +15,17 @@
 </div>
 
 
-# THE DECENTRALIZED ENTITY.
-##### . 👋 Hi, I'm Olaoye Salem.
+Hello World,🌏,I'm Salem, The Decentralized Entity .
+
+<!-- Typing SVG -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Building+A+Better+World+Block+By+Block;Blockchain+Engineer+!;Always+learning+new+things">
+</p>
+
 ##### . 🌱 I’m currently into blockchain, with the use of Metamask, Web3, and solidity
-##### . 🌱 Ask me anything about smart contracts, ethereum.
-##### . 💞️ I’m looking to collaborate on any project using blockchain, react,solidity.
-##### . 💖 Lover of Open Source contribution to smartcontracts and blockchain projects.
+##### . 🌱 Ask me anything about smart contracts, ethereum,web3.
 ##### . 📫 How to reach me olaoyesalemgreat@gmail.com
+##### . 🎈 Fun Fact: I Love Coding and solving problems.
 
 
 
