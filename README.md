@@ -34,7 +34,7 @@ Hello World,🌏,I'm Salem, The Decentralized Entity .
 
 
 #### CERTIFICATES
-[Polygon For Africa Bootcamp](#https://drive.google.com/file/d/1G-hs-1iEnMpEj5JygitowynaU0GHSAI4/view?usp=share_link)
+[Polygon For Africa Bootcamp](https://drive.google.com/file/d/1G-hs-1iEnMpEj5JygitowynaU0GHSAI4/view?usp=share_link)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=olaoyesalem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
