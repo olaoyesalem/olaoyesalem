@@ -33,7 +33,6 @@ Hello World,🌏,I'm Salem, The Decentralized Entity .
 ##### . 📫 How to reach me olaoyesalemgreat@gmail.com
 ##### . 🎈 Fun Fact: I Love Coding and solving problems.
 
-#### . Currently Working at GiggerPay to bring web3 to Africa's DoorStep
 
 #### CERTIFICATES
 * [Polygon For Africa Bootcamp](https://drive.google.com/file/d/1G-hs-1iEnMpEj5JygitowynaU0GHSAI4/view?usp=share_link)
