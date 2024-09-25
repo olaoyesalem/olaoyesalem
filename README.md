@@ -66,9 +66,9 @@ To provide tailored security insights that protect your projects and make your s
 Always seeking new opportunities! Whether it's a job, security audit, or collaboration, let's make things happen!
 
 - 📧 Email: olaoyesalemgreat@gmail.com
-- 🐦 Twitter: [@Salem_Dev](https://twitter.com/Salem_Dev)
-- 💬 Telegram: [@Devsalemm](https://t.me/Devsalemm)
-- 📱 Discord: devsalem
+- 🐦 Twitter: [@Salem_Dev](https://twitter.com/salthegeek1)
+- 💬 Telegram: [@Nyxaris](https://t.me/@Nyxaris)
+- 📱 Discord: Salem#3925
 
 ## 🌱 Current Focus
 
