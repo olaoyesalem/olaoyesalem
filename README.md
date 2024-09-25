@@ -49,9 +49,9 @@ To provide tailored security insights that protect your projects and make your s
 
 ## 🔍 Profiles
 
-- [Code4rena](https://code4rena.com/@Salem-Nyxaris)
-- [Sherlock](https://app.sherlock.xyz/audits/Salem-Nyxaris)
-- [CodeHawks](https://www.codehawks.com/profile/Salem-Nyxaris)
+- [Code4rena](https://code4rena.com/@Nyxaris)
+- [Sherlock](https://audits.sherlock.xyz/watson/Salem)
+- [CodeHawks](https://codehawks.cyfrin.io/?contestType=all&upcoming=true&live=true&community-judging=true&judging=true&ended=true&sort=startDate)
 
 ## 📊 Audit Contest Results
 
@@ -81,3 +81,6 @@ I love coding and solving problems!
 ---
 
 📌 You can contact me for private audits through any of my socials. Check out my past findings and contest results above!
+
+## Resume:
+[Link](https://drive.google.com/file/d/1Yl64SeSEZLIEOikl6aB1mblz0O9-K8O-/view?usp=sharing)
