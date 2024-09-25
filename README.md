@@ -23,55 +23,61 @@
 
 Hello World,🌏,I'm Salem, The Decentralized Entity .
 ---
+# Salem (Nyxaris) - Blockchain Security Researcher
 
-<!-- Typing SVG -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4981F4&width=350&lines=Building+A+Better+World+Block+By+Block;Blockchain+Engineer+!;Always+learning+new+things">
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=salem-nyxaris&color=blueviolet)
 
-##### . 🌱 I’m currently into blockchain, with the use of Metamask, Web3, and solidity
-##### . 🌱 Ask me anything about smart contracts, ethereum,web3.
-##### . 📫 How to reach me olaoyesalemgreat@gmail.com
-##### . 🎈 Fun Fact: I Love Coding and solving problems.
+## 👋 About Me
 
+Hey there! I'm Salem (Nyxaris), an independent blockchain security researcher passionate about safeguarding decentralized ecosystems. I actively compete in audit contests on platforms like Code4rena, Sherlock, and Codehawks, identifying and fixing vulnerabilities before they can be exploited.
 
-#### CERTIFICATES
-* [Polygon For Africa Bootcamp](https://drive.google.com/file/d/1G-hs-1iEnMpEj5JygitowynaU0GHSAI4/view?usp=share_link)
+### 🚀 My Mission
 
+To provide tailored security insights that protect your projects and make your smart contracts bulletproof. Whether you're looking to strengthen existing protocols or launch securely, I'm here to help!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=olaoyesalem&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=olaoyesalem&theme=dark)](https://github.com/olaoyesalem/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=olaoyesalem&theme=black)](https://github.com/DenverCoder1/github-readme-streak-stats)
+### 💼 Expertise
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=olaoyesalem&langs_count=5&theme=tokyonight)]()
+- Blockchain Technology
+- Smart Contract Auditing
+- Ethereum & Web3
+- Metamask
+- Solidity
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" alt="Polygon" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title=" Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_eth.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/glorylab/web3_icons/raw/main/icons/2.0x/ic_metamask.png" title="Metamask" alt="Metamask " width="40" height="40"/>&nbsp;
-  <img src="https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg"  title="hardhat" alt="hardhat" width="70" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## 🏆 Certifications
 
+- Polygon For Africa Bootcamp
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-<!--
-**olaoyesalem/olaoyesalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Profiles
 
-Here are some ideas to get you started:
+- [Code4rena](https://code4rena.com/@Salem-Nyxaris)
+- [Sherlock](https://app.sherlock.xyz/audits/Salem-Nyxaris)
+- [CodeHawks](https://www.codehawks.com/profile/Salem-Nyxaris)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
--->
+## 📊 Audit Contest Results
+
+| Contest | High Risk | Medium Risk | Low Risk | Security Report |
+|---------|-----------|-------------|----------|-----------------|
+| Code4rena - AI Arena | - | 3 | - | - |
+| Sherlock - Elfi Protocol | - | - | - | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
+| CodeHawks | - | 3 | 1 | - |
+
+## 📫 Contact Me
+
+Always seeking new opportunities! Whether it's a job, security audit, or collaboration, let's make things happen!
+
+- 📧 Email: olaoyesalemgreat@gmail.com
+- 🐦 Twitter: [@Salem_Dev](https://twitter.com/Salem_Dev)
+- 💬 Telegram: [@Devsalemm](https://t.me/Devsalemm)
+- 📱 Discord: devsalem
+
+## 🌱 Current Focus
+
+I'm continuously deepening my knowledge in blockchain, Metamask, Web3, and Solidity. Feel free to ask me anything about smart contracts, Ethereum, or Web3!
+
+## 🎈 Fun Fact
+
+I love coding and solving problems!
+
+---
+
+📌 You can contact me for private audits through any of my socials. Check out my past findings and contest results above!
