@@ -60,8 +60,7 @@ To provide tailored security insights that protect your projects and make your s
 | Code4rena - AI Arena | - | 3 | - | [Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/376) ,[Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) ,[Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) |
 | Sherlock - Elfi Protocol | - | 1 | - | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
 | CodeHawks - Tadle | - | 2| 1 | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/58),[link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/814) |
-
-| CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)
+| CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)|
 
 
 
