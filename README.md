@@ -71,7 +71,7 @@ Always seeking new opportunities! Whether it's a job, security audit, or collabo
 - 📧 Email: olaoyesalemgreat@gmail.com
 - 🐦 Twitter: [@Salem_Dev](https://twitter.com/salthegeek1)
 - 💬 Telegram: [@Nyxaris](https://t.me/@Nyxaris_1)
-- 📱 Discord: Salem#3925
+- 📱 Discord: salem#3925
 
 ## 🌱 Current Focus
 
