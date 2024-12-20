@@ -58,6 +58,8 @@ To provide tailored security insights that protect your projects and make your s
 | Sherlock - Elfi Protocol | - | 1 | - | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
 | CodeHawks - Tadle | - | 2| 1 | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/58),[link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/814) |
 | CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)|
+| Cantina - InfinityPool Contest| 1 | - | 2 | [Link](https://x.com/Salthegeek1/status/1866782072905535807)|
+
 
 
 
