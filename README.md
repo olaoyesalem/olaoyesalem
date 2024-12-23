@@ -49,6 +49,7 @@ To provide tailored security insights that protect your projects and make your s
 - [Code4rena](https://code4rena.com/@Nyxaris)
 - [Sherlock](https://audits.sherlock.xyz/watson/Salem)
 - [CodeHawks](https://codehawks.cyfrin.io/?contestType=all&upcoming=true&live=true&community-judging=true&judging=true&ended=true&sort=startDate)
+- [Cantina](https://cantina.xyz/u/Nyxaris)
 
 ## 📊 Audit Contest Results
 
