@@ -22,8 +22,6 @@ Hello World,🌏,I'm Salem, The Decentralized Entity .
 ---
 # Salem (Nyxaris) - Blockchain Security Researcher
 
-![Profile Views](https://komarev.com/ghpvc/?username=salem-nyxaris&color=blueviolet)
-
 ## 👋 About Me
 
 Hey there! I'm Salem (Nyxaris), an independent blockchain security researcher passionate about safeguarding decentralized ecosystems. I actively compete in audit contests on platforms like Code4rena, Sherlock, and Codehawks, identifying and fixing vulnerabilities before they can be exploited.
@@ -60,6 +58,8 @@ To provide tailored security insights that protect your projects and make your s
 | CodeHawks - Tadle | - | 2| 1 | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/58),[link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/814) |
 | CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)|
 | Cantina - InfinityPool Contest| 1 | - | 2 | [Link](https://x.com/Salthegeek1/status/1866782072905535807)|
+| Cantina - Daao Contest| 2 | 1 | 1 | [Link](https://drive.google.com/file/d/1NSGfCh8iGTXQAn05XIoKYj3VsBgambqY/view?usp=drive_link)|
+
 
 
 
