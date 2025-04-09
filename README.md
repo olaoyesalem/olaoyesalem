@@ -59,6 +59,8 @@ To provide tailored security insights that protect your projects and make your s
 | CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)|
 | Cantina - InfinityPool Contest| 1 | - | 2 | [Link](https://x.com/Salthegeek1/status/1866782072905535807)|
 | Cantina - Daao Contest| 2 | 1 | 1 | [Link](https://drive.google.com/file/d/1NSGfCh8iGTXQAn05XIoKYj3VsBgambqY/view?usp=drive_link)|
+| Cantina - Badger Contest| 1 | - | - | |
+
 
 
 
