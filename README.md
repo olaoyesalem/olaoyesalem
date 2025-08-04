@@ -92,5 +92,5 @@ I love coding and solving problems!
 📌 You can contact me for private audits through any of my socials. Check out my past findings and contest results above!
 
 ## Resume:
-[Link](https://drive.google.com/file/d/1Yl64SeSEZLIEOikl6aB1mblz0O9-K8O-/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1bcxgegx_a3HbP6kdLhdNIHl2IkaWXfFF/view?usp=drive_link)
 
