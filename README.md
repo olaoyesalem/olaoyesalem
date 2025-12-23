@@ -61,7 +61,8 @@ To provide tailored security insights that protect your projects and make your s
 | Cantina - Daao Contest| 2 | 1 | 1 | [Link](https://drive.google.com/file/d/1NSGfCh8iGTXQAn05XIoKYj3VsBgambqY/view?usp=drive_link)|
 | Cantina - Badger Contest| 1 | - | - | |
 | Cantina - Alchemix-v3 Contest| 2 | - | - | |
-| Code4rena - Hybra Contest| - | 2 | - | [Link](https://code4rena.com/audits/2025-10-hybra-finance)|
+| Code4rena - Hybra Contest| - | 2 | - | [Link](https://code4rena.com/audits/2025-10-hybra-finance/submissions?page=1&filter=awardable&search=Nyxaris)|
+| Code4rena - MegaPot Contest| - | 2 | - | [Link](https://code4rena.com/audits/2025-11-megapot/submissions?page=1&filter=awardable&search=nyxaris)|
 
 
 
