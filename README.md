@@ -51,19 +51,6 @@ To provide tailored security insights that protect your projects and make your s
 
 ## 📊 Audit Contest Results
 
-| Contest | High Risk | Medium Risk | Low Risk | Security Report |
-|---------|-----------|-------------|----------|-----------------|
-| Code4rena - AI Arena | - | 3 | - | [Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/376) ,[Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) ,[Link](https://github.com/code-423n4/2024-02-ai-arena-findings/issues/43) |
-| Sherlock - Elfi Protocol | - | 1 | - | [Issue #262](https://github.com/sherlock-audit/2024-05-elfi-protocol-judging/issues/262) |
-| CodeHawks - Tadle | - | 2| 1 | [Link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/58),[link](https://codehawks.cyfrin.io/c/2024-08-tadle/s/814) |
-| CodeHawks - Ark Contest| - | 1| - | [Link](https://codehawks.cyfrin.io/c/2024-07-ark-project/s/14)|
-| Cantina - InfinityPool Contest| 1 | - | 2 | [Link](https://x.com/Salthegeek1/status/1866782072905535807)|
-| Cantina - Daao Contest| 2 | 1 | 1 | [Link](https://drive.google.com/file/d/1NSGfCh8iGTXQAn05XIoKYj3VsBgambqY/view?usp=drive_link)|
-| Cantina - Badger Contest| 1 | - | - | |
-| Cantina - Alchemix-v3 Contest| 2 | - | - | |
-| Code4rena - Hybra Contest| - | 2 | - | [Link](https://code4rena.com/audits/2025-10-hybra-finance/submissions?page=1&filter=awardable&search=Nyxaris)|
-| Code4rena - MegaPot Contest| - | 2 | - | [Link](https://code4rena.com/audits/2025-11-megapot/submissions?page=1&filter=awardable&search=nyxaris)|
-
 
 
 
